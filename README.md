@@ -2,6 +2,8 @@
 
 # 💰 Smart Expense Tracker
 
+<img width="1536" height="1024" alt="Smart Expense Tracker Concept" src="https://github.com/user-attachments/assets/1cbd4d7f-1eb3-41bc-ad55-c9d0cd9f2c78" />
+
 A **professional full-stack project** combining **Java (Spring Boot)** and **Python (FastAPI)** to track expenses and provide smart analytics.
 This project demonstrates how two different languages/services can work together in a real-world microservices-style architecture.
 
